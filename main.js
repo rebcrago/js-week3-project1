@@ -27,8 +27,8 @@ problem and the result can be displayed in the HTML page.
 
 
 
-BASIC TRACK: 1-10
-ADVANCED TRACK: 11-15
+BASIC TRACK: 1-12
+ADVANCED TRACK: A-E
 =======================================================
 */
 
